@@ -7,3 +7,4 @@ before_install:
 script:
   - make unit-report
 after_success:
+  - bash <(curl -s https://codecov.io/bash)
