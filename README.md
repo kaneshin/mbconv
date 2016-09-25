@@ -1,4 +1,4 @@
-# lime <img src=https://raw.githubusercontent.com/kaneshin/lime/master/lime.png height=40 />
+# goconv - multibyte converter for golang
 
 [![Build Status](https://travis-ci.org/kaneshin/goconv.svg?branch=master)](https://travis-ci.org/kaneshin/goconv)
 [![codecov](https://codecov.io/gh/kaneshin/goconv/branch/master/graph/badge.svg)](https://codecov.io/gh/kaneshin/goconv)
