@@ -1,0 +1,21 @@
+hash: 11b40ce68ca8edd15feff6123a8cd526ee9b3acbf3a4b88b4d428a40d1f25b64
+updated: 2016-09-25T05:48:55.58290551Z
+imports:
+- name: golang.org/x/text
+  version: a7c023693a94aedd6b6df43ae7526bfe9d2b7d22
+  subpackages:
+  - transform
+  - width
+testImports:
+- name: github.com/davecgh/go-spew
+  version: 5215b55f46b2b919f50a1df0eaa5886afe4e3b3d
+  subpackages:
+  - spew
+- name: github.com/pmezard/go-difflib
+  version: d8ed2627bdf02c080bf22230dbb337003b7aba2d
+  subpackages:
+  - difflib
+- name: github.com/stretchr/testify
+  version: d77da356e56a7428ad25149ca77381849a6a5232
+  subpackages:
+  - assert

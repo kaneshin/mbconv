@@ -1,0 +1,9 @@
+package: github.com/kaneshin/goconv
+import:
+- package: golang.org/x/text
+  subpackages:
+  - width
+testImport:
+- package: github.com/stretchr/testify
+  subpackages:
+  - assert

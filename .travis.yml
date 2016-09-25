@@ -1,0 +1,9 @@
+language: go
+go:
+  - 1.7.1
+dist: trusty
+before_install:
+  - make init
+script:
+  - make unit-report
+after_success:
