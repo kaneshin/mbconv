@@ -1,4 +1,4 @@
-package: github.com/kaneshin/goconv
+package: github.com/kaneshin/mbconv
 import:
 - package: golang.org/x/text
   subpackages:

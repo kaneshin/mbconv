@@ -1,4 +1,4 @@
-package goconv
+package mbconv
 
 import (
 	"testing"
